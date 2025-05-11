@@ -1,2 +1,3 @@
 My name is Avinash Nayan.
-Adding third line in master branch.
+I'm a Devops Engineer with 2 years of experience.
+Adding third line in master branch after resolving conflict.
